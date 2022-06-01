@@ -12,7 +12,8 @@
 
 ### Connect with me:
 
-[![website](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/0d96766fd54bfd5c9dae23b22399e94cbd76feed/img/github-light.svg)
+[website](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/0d96766fd54bfd5c9dae23b22399e94cbd76feed/img/github-light.svg)
+[<img align="left" alt="vs code" width="26px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/0d96766fd54bfd5c9dae23b22399e94cbd76feed/img/github-light.svg" />]
 
 
 ### Languages and Tools:
