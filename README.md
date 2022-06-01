@@ -11,3 +11,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: English
 - ⚡ Fun fact: I love gaming
 
+<img scr="https://github-readme-stats.vercel.app/api?username=mohammadJahid8">
