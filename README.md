@@ -1,9 +1,9 @@
-# Hi there, I'm Jesse - aka [codeSTACKr][youtube] 👋 
+# Hi there, I'm Jahid - Frontend Developer 👋 
 
 
 ## I'm a Student, Gamer and Developer!!
 
-- 🔭 Check out my recent project: [Ventrac Mnaufacturer][https://assignment-12-9e0cc.web.app/]!
+- 🔭 Check out my recent project: [Ventrac Mnaufacturer](https://assignment-12-9e0cc.web.app/)!
 - 🌱 I’m currently learning JavaScript, React.
 - 👯 I like to explore new things.
 - 🥅 2022 Goals: Learn core concepts of Web Development
