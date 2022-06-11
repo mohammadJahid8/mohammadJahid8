@@ -13,10 +13,10 @@
 ### Connect with me:
 
 
-<img align="left" alt="vs code" width="30px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" />
-<img align="left" alt="vs code" width="30px" src="https://cdn.iconscout.com/icon/free/png-64/linkedin-2752135-2284952.png" />
-<img align="left" alt="vs code" width="30px" src="https://cdn.iconscout.com/icon/free/png-64/facebook-262-721949.png" />
-<img align="left" alt="vs code" width="30px" src="https://cdn.iconscout.com/icon/free/png-64/instagram-1868978-1583142.png" />
+[<img align="left" alt="vs code" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" />](https://github.com/mohammadJahid8)
+[<img align="left" alt="vs code" width="26px" src="https://cdn.iconscout.com/icon/free/png-64/linkedin-2752135-2284952.png" />](https://www.linkedin.com/in/mohammad-jahid-3598b6229/)
+[<img align="left" alt="vs code" width="26px" src="https://cdn.iconscout.com/icon/free/png-64/facebook-262-721949.png" />](https://www.facebook.com/zahid.814)
+[<img align="left" alt="vs code" width="26px" src="https://cdn.iconscout.com/icon/free/png-64/instagram-1868978-1583142.png" />](https://www.instagram.com/jahidishere/)
 
 <br/>
 
