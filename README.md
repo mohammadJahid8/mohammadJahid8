@@ -6,9 +6,8 @@
 - 🔭 Check out my recent project: [Ventrac Mnaufacturer](https://assignment-12-9e0cc.web.app/)!
 - 🌱 I’m currently learning JavaScript, React.
 - 👯 I like to explore new things.
-- 🥅 2022 Goals: Learn core concepts of Web Development
+- 🥅 2023 Goals: Learn deep concepts of Web Development
 - ⚡ Fun fact: I love to sleep and play games
-- 😻 Check out my Gaming Youtube Channel: [You Tube](https://www.youtube.com/channel/UCpTCABFcEsx3h7uLFgxbvGQ)
 
 ### Connect with me:
 
