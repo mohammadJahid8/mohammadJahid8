@@ -3,11 +3,6 @@
 
 ## I'm a Student and Developer!!
 
-- 🔭 Check out my recent project: [Ventrac Mnaufacturer](https://assignment-12-9e0cc.web.app/)!
-- 🌱 I’m currently learning JavaScript, React.
-- 👯 I like to explore new things.
-- 🥅 2023 Goals: Learn deep concepts of Web Development
-- ⚡ Fun fact: I love to sleep and play games
 
 ### Connect with me:
 
