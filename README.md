@@ -74,10 +74,10 @@ Hi there, I'm [Mohammad Jahid!](https://www.linkedin.com/in/jahid8/) I specializ
 <details>
 	<summary>💻 GitHub Profile Stats</summary>
 	<br/>
-	<a href="https://github.com/mohammadJahid8/mohammadJahid8"><img alt="Jahid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mohammadJahid8&show_icons=true&count_private=true&theme=react&hide_border=true&bg=transparent&title_color=black&icon_color=F8D866"  height="188px"/></a>
-	<a href="#"><img alt="Jahid's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadJahid8&langs_count=8&layout=compact&theme=react&hide_border=true&bg=transparent&title_color=black&icon_color=F8D866&hide=Jupyter%20Notebook" height="188px"/></a>
+	<a href="https://github.com/mohammadJahid8/mohammadJahid8"><img alt="Jahid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mohammadJahid8&hide=contribs,issues,prs&count_private=true&show_icons=true&theme=react&bg=transparent&title_color=black&icon_color=F8D866"  height="188px"/></a>
+<!-- 	<a href="#"><img alt="Jahid's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadJahid8&layout=compact" height="188px"/></a>
   <br/>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
 </details>
 
 <!-- <details>
