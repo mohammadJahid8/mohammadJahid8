@@ -89,14 +89,7 @@ Hi there, I'm [Mohammad Jahid!](https://www.linkedin.com/in/jahid8/) I specializ
 	<a href="https://github.com/mohammadJahid8/LinearRegression-GradesPrediction"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammadJahid8&repo=LinearRegression-GradesPrediction&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
 	<a href="https://github.com/mohammadJahid8/Diabetes-prediction"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammadJahid8&repo=Diabetes-prediction&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
 </details> -->
-<!-- 
-<details>
-<summary>💡 Profile visitors</summary>
-<p align="center">:round_pushpin: Profile visitors</p>
-<div align="center">
-    <img alt="visitors counter" src="https://profile-counter.glitch.me/mohammadJahid8/count.svg">
-</div>
-</details> -->
+
 
 
 ## 🙋‍♂️ Let's Connect
