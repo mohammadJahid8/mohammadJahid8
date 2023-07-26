@@ -68,29 +68,6 @@ Hi there, I'm [Mohammad Jahid!](https://www.linkedin.com/in/jahid8/) I specializ
 
 
 
-## &#x1f4c8; Github stats
-
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<details>
-	<summary>💻 GitHub Profile Stats</summary>
-	<br/>
-	<a href="https://github.com/mohammadJahid8/mohammadJahid8"><img alt="Jahid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mohammadJahid8&hide=contribs,issues,prs&count_private=true&show_icons=true&theme=react&bg=transparent&title_color=black&icon_color=F8D866"  height="188px"/></a>
-<!-- 	<a href="#"><img alt="Jahid's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadJahid8&layout=compact" height="188px"/></a>
-  <br/>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
-</details>
-
-<!-- <details>
-	<summary>⚡ Top GitHub Directories</summary>
-	<br/>
-	<a href="https://github.com/mohammadJahid8/mohammadJahid8"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammadJahid8&repo=mohammadJahid8&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
-	<a href="https://github.com/mohammadJahid8/LinearRegression-HousePricePrediction"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammadJahid8&repo=LinearRegression-HousePricePrediction&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
-	<a href="https://github.com/mohammadJahid8/LogisticRegression-BreastCancerDS"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammadJahid8&repo=LogisticRegression-BreastCancerDS&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
-	<a href="https://github.com/mohammadJahid8/LinearRegression-GradesPrediction"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammadJahid8&repo=LinearRegression-GradesPrediction&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
-	<a href="https://github.com/mohammadJahid8/Diabetes-prediction"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammadJahid8&repo=Diabetes-prediction&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
-</details> -->
-
-
 
 ## 🙋‍♂️ Let's Connect
 <div align="center">
