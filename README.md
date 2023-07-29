@@ -11,8 +11,7 @@
   	<a href="https://github.com/mohammadJahid8?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/mohammadJahid8?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 	
 </p>
-<!--<img src="https://komarev.com/ghpvc/?username=mohammadJahid8&label=Profile%20Views&color=blue&style=plastic" align='right' alt="mohammadJahid8" />
-<!--<img src="https://gpvc.arturio.dev/mohammadJahid8" alt="Profile views" align='right'/> <a href="https://github.com/mohammadJahid8/mohammadJahid8"> </a>-->
+
 <hr/>
 
 <!-- Introduction -->
