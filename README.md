@@ -107,12 +107,3 @@ Hi there, I'm [Mohammad Jahid!](https://www.linkedin.com/in/jahid8/) I specializ
 [5.2]: https://raw.githubusercontent.com/mohammadJahid8/mohammadJahid8/master/icon/sololearn.ico (Sololearn icon without padding)
 
 
-<!-- links to your social media accounts -->
-
-<!--[1]: https://twitter.com/mohammadJahid8/
-[2]: https://github.com/mohammadJahid8/
-[3]: https://www.linkedin.com/in/mohammadJahid8/
-[4]: https://instagram.com/mohammadJahid8/
-[5]: https://www.sololearn.com/profile/14847321/
-
-[![Twitter][1.1]][1], [![LinkedIn][3.2]][3], [![Instagram][4.2]][4], [![SoloLearn][5.2]][5]. -->
