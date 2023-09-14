@@ -1,5 +1,3 @@
-
-
 <p align="center">
 	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23BD561D&duration=6000&lines=I'm++not++procrastinating;I'm++prioritizing++my++debugging++time!&center=true&width=390&height=45"></a>
 </p>
