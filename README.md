@@ -92,7 +92,7 @@ Hi there, I'm [Mohammad Jahid!](https://www.linkedin.com/in/jahid8/) I specializ
 <!--- WORKING ON IT -->
 <!-- links to social media icons -->
 
-<!-- icons with padding -->
+
 
 <!--[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
