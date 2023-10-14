@@ -19,7 +19,7 @@ Hi there, I'm [Mohammad Jahid!](https://www.linkedin.com/in/jahid8/) I specializ
 
 <p align="center">
 	<a href="https://github.com/mohammadJahid8/">
-		<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jahid's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadJahid8&theme=monokai-metallian&hide_border=true&color=default"/></a>
+		<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jahid's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadJahid8&theme=monokai-metallian&hide_border=true&color=default&/"/></a>
 <p align="center"> Never stop learning, never stop improving, never stop coding.🔥 </p>
 </p>
 
