@@ -89,8 +89,7 @@ Hi there, I'm [Mohammad Jahid!](https://www.linkedin.com/in/jahid8/) I specializ
 <!-- Shields: https://shields.io/ -->
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
 	
-<!--- WORKING ON IT -->
-<!-- links to social media icons -->
+
 
 
 
