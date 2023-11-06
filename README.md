@@ -91,11 +91,6 @@ Hi there, I'm [Mohammad Jahid!](https://www.linkedin.com/in/jahid8/) I specializ
 
 
 
-
-
-
-<!-- icons without padding -->
-
 <!--[1.1]: https://raw.githubusercontent.com/mohammadJahid8/mohammadJahid8/master/icon/twitter.png (Twitter icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 [3.2]: https://raw.githubusercontent.com/mohammadJahid8/mohammadJahid8/master/icon/linkedin.png (LinkedIn icon without padding)
