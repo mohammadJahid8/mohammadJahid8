@@ -77,9 +77,6 @@ Hi there, I'm [Mohammad Jahid!](https://www.linkedin.com/in/jahid8/) I specializ
 
 
 
-	
-
-<!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
 <!-- Icons: https://img.icons8.com -->
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
