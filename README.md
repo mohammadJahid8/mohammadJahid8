@@ -38,12 +38,12 @@ Hi there, I'm [Mohammad Jahid!](https://www.linkedin.com/in/jahid8/) I specializ
 	<a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-white.svg?logo=typescript"></a>
     	<a href="#"><img alt="React" src="https://img.shields.io/badge/React-Js-blue.svg?logo=react"></a>
 	<a href="#"><img alt="nextjs" src="https://img.shields.io/badge/Next.js-black.svg?logo=next.js"></a>
+	<a href="#"><img alt="remixjs" src="https://img.shields.io/badge/Remix.js-white.svg?logo=remix.js"></a>
 	<a href="#"><img alt="node" src="https://img.shields.io/badge/Node.js-darkgreen.svg?logo=node.js&logoColor=white"></a>
     	<a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
 	<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
     	<a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
 	<a href="#"><img alt="Gitbash" src="https://img.shields.io/badge/Gitbash-DD1100.svg?logo=github&logoColor=white"></a>
-    	<a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
 	<a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
 	<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 	<a href="#"><img alt="express" src="https://img.shields.io/badge/Express.js-grey.svg?logo=express"></a>
