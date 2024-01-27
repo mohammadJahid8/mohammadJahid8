@@ -38,7 +38,7 @@ Hi there, I'm [Mohammad Jahid!](https://www.linkedin.com/in/jahid8/) I specializ
 	<a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-white.svg?logo=typescript"></a>
     	<a href="#"><img alt="React" src="https://img.shields.io/badge/React-Js-blue.svg?logo=react"></a>
 	<a href="#"><img alt="nextjs" src="https://img.shields.io/badge/Next.js-black.svg?logo=next.js"></a>
-	<a href="#"><img alt="remixjs" src="https://img.shields.io/badge/Remix.js-white.svg?logo=remix.js"></a>
+	<a href="#"><img alt="remixjs" src="https://img.shields.io/badge/Remix.js-blue.svg?logo=remix"></a>
 	<a href="#"><img alt="node" src="https://img.shields.io/badge/Node.js-darkgreen.svg?logo=node.js&logoColor=white"></a>
     	<a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
 	<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
